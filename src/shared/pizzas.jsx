@@ -1,16 +1,12 @@
-import frango from "../assets/image/FRANGO-COM-CATUPIRY.jpeg";
+
 import calabresa from "../assets/image/PIZZA-CALABRESA.jpeg";
 import mussarela from "../assets/image/PIZZA-MUSSARELA.jpeg";
 import bacon from "../assets/image/PIZZA-BACON.jpeg";
 import portuguesa from "../assets/image/PIZZA-PORTUGUESA.jpeg";
 
+
 const Pizzas = [
-    {
-        "id": 1,
-        "nome": "Frango com Catupiry",
-        "descricao": "Pizza de frango com catupiry",
-        "imagem": frango
-    },
+    
     {
         "id": 2,
         "nome": "Calabresa",
