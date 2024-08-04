@@ -15,3 +15,6 @@ document.body.style.backgroundColor = color
 }
 
 export default App;
+export const pizzas = [
+    {}
+];
