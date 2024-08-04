@@ -9,7 +9,7 @@ const Listagem = () => {
                 <img src={pizza.imagem}
                 alt={pizza.nome}
                 style={{
-                    width:"180",
+                    width:"150px",
                     height:"100px",
                     borderRadius:"8px",
                     margin:"0px",
