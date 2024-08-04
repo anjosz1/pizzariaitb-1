@@ -6,7 +6,7 @@ import bacon from "../assets/image/PIZZA-BACON.jpeg";
 import portuguesa from "../assets/image/PIZZA-PORTUGUESA.jpeg";
 
 
-const Pizzas = [
+const pizzas = [
     
     {
         "id": 1,
@@ -40,4 +40,4 @@ const Pizzas = [
     },
 ];
 
-export default Pizzas;
+export default pizzas;

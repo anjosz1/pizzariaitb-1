@@ -1,8 +1,8 @@
 import React, {useState, useEffect} from 'react'
-import Pizzas from '../shared/pizzas'
+import pizzas from '../shared/pizzas'
 const Listagem = () => {
 
-    const ItensLista = () => Pizzas.map(
+    const ItensLista = () => pizzas.map(
 
         pizza =>
             <li key ={pizza.id} style={{listStyle: 'none'}}>
